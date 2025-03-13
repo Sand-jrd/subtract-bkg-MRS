@@ -23,6 +23,7 @@ The centroid is computed for each file using 2D fits, storing relevant band/type
 ## Requirements
 
 This method **requires** a large **library of background observations**, which you must download and curate to remove poor-quality data.
+It also requires MIRI distortion files. Distortion files version flt7 and flt5 are provided within this repository.
 
 If needed, I can provide a prepared library (see [Support](#feedback--support)).
 
