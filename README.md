@@ -35,7 +35,6 @@ If needed, I can provide a prepared library (see [Support](#feedback--support)).
 Download this Git repository, which includes the notebook and essential Python functions.
 
 
-
 ### Usage
 
 1. Ensure dependencies are installed and run with Python 11.
@@ -57,7 +56,9 @@ diff_bands = ['A34', 'B34', 'C34', 'A12', 'B12', 'C12']  # Format: "BANDCHAN", e
 
 ### Example
 
-The notebook generates visual outputs to assess background subtraction quality.
+The notebook will plot a x-slice of a rate file to asses quality of the background subtraction : 
+
+[Image Description](bkgres.png)
 
 ## Feedback / Support
 
@@ -65,11 +66,11 @@ Your feedback is welcome! This method has yet to be extensively tested on large 
 
 For questions or support, reach out:
 
-💎 **Email:** [sjuillard@uliege.be](mailto\:sjuillard@uliege.be)
+**Email:** [sjuillard@uliege.be](mailto\:sjuillard@uliege.be)
 
 I can perform background subtraction for you or provide a curated background observation library.
 
 ## Acknowledgment
 
-This script uses a Python function by Yanis Aragyrious for centroid estimation. The pipeline concept stems from discussions with Danny Gasman, Yanis Aragyrious, and Valentin Christeans.
+This script uses a Python function by Ioannis Argyriou for centroid estimation. The pipeline concept stems from discussions with Danny Gasman, Ioannis Argyriou (KULeuven), Valentin Christiaens and myself Sandrine Juillard (ULiège) 
 
