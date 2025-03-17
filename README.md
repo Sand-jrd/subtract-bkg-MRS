@@ -59,7 +59,7 @@ diff_bands = ['A34', 'B34', 'C34', 'A12', 'B12', 'C12']  # Format: "BANDCHAN", e
 
 The notebook will plot a x-slice of a rate file to asses quality of the background subtraction : 
 
-[Image Description](bkgres.png)
+![exempleBKGsub](bkgres.png)
 
 ## Feedback / Support
 
